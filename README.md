@@ -34,6 +34,7 @@ Cette répertoire git va servir de cahier de laboratoire pour le stage de Louis
 * [Petite intro de R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
 * [`jsonlite`](https://cran.r-project.org/web/packages/jsonlite/index.html)
 * [`data.table`](https://github.com/Rdatatable/data.table/wiki)
+* [`data.table` cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf)
 * [`shiny`](https://github.com/CharlesJB/Stage_Louis_2016/shiny.rstudio.com)
 
 ## Les *pull requests*
