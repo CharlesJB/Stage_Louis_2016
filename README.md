@@ -13,8 +13,6 @@ Cette répertoire git va servir de cahier de laboratoire pour le stage de Louis
 * [Github flow](https://guides.github.com/introduction/flow/)
 * [Comment écrire des bons messages de commit.](http://chris.beams.io/posts/git-commit/)
 * [Syntaxe markdown de github](https://help.github.com/categories/writing-on-github/)
-* [Introduction aux paquets R](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
-* [Guide sur les paquets R](http://r-pkgs.had.co.nz/)
 
 **Note**: Les commandes les plus importantes sont `init`, `add`, `commit`, `push` et `pull`.
 
@@ -36,6 +34,8 @@ Cette répertoire git va servir de cahier de laboratoire pour le stage de Louis
 * [`data.table`](https://github.com/Rdatatable/data.table/wiki)
 * [`data.table` cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf)
 * [`shiny`](https://github.com/CharlesJB/Stage_Louis_2016/shiny.rstudio.com)
+* [Introduction aux paquets R](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+* [Guide sur les paquets R](http://r-pkgs.had.co.nz/)
 
 ## Les *pull requests*
 
