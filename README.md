@@ -34,7 +34,9 @@ Cette répertoire git va servir de cahier de laboratoire pour le stage de Louis
 * [`data.table`](https://github.com/Rdatatable/data.table/wiki)
 * [`data.table` cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf)
 * [`shiny`](https://github.com/CharlesJB/Stage_Louis_2016/shiny.rstudio.com)
-* [Introduction aux paquets R](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
+* [`RUnit`](https://cran.r-project.org/web/packages/RUnit/vignettes/RUnit.pdf)
+* [Introduction aux paquets
+R](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
 * [Guide sur les paquets R](http://r-pkgs.had.co.nz/)
 
 ## Les *pull requests*
